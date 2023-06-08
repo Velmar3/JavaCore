@@ -1,0 +1,2 @@
+javac -sourcepath ./src -d out src/main/java/seminar_1/Main.java
+javadoc -d docs -sourcepath src -cp out -subpackages ru -locate ru_RU -encoding utf-8 -docencoding cp1251
